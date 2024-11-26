@@ -6,7 +6,7 @@
 **[DJMAX RESPECT V](https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/)**: 웹 성과 관리 도구 [V-ARCHIVE](https://v-archive.net)와 연동됩니다.
 
 ## 지원 예정 게임
-**[WJMAX](https://waktaverse.games/gameDetail/wjmax/)**: 자체 서비스로 준비 중에 있습니다.
+**[WJMAX(왁제이맥스)](https://waktaverse.games/gameDetail/wjmax/)**: 자체 서비스로 준비 중에 있습니다.
 
 ## 라이선스
 본 소프트웨어의 소스 코드는 공개되지 않았으며, 사용 가능한 최종 결과물만 UNLICENSE로 제공됩니다.  
