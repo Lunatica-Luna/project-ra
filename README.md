@@ -1,5 +1,5 @@
 # 프로젝트 RA
-![스크린샷](https://cdn.lunatica.kr/project_ra/bfd0cbca-0fc7-4116-8649-4dc6e02c90df.png)
+![스크린샷](https://cdn.lunatica.kr/project_ra/update_060.png)
 프로젝트 RA는 다양한 리듬 게임의 성과 관리를 지원하는 도구입니다.
 
 ## 지원 게임
