@@ -4,9 +4,7 @@
 
 ## 지원 게임
 **[DJMAX RESPECT V](https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/)**: 웹 성과 관리 도구 [V-ARCHIVE](https://v-archive.net)와 연동됩니다.
-
-## 지원 예정 게임
-**[WJMAX(왁제이맥스)](https://waktaverse.games/gameDetail/wjmax/)**: 자체 서비스로 준비 중에 있습니다.
+**[WJMAX(왁제이맥스)](https://waktaverse.games/gameDetail/wjmax/)**
 
 ## TMI
 V-ARCHIVE 서비스랑 디맥 IP가 좋아서 만들었습니다. 가능하다면 오래 품고가고자하니 미숙하더라도 많은 기대 부탁드립니다.
