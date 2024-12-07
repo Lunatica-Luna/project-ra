@@ -6,7 +6,7 @@ R-ARCHIVE 데스크톱 앱은 다양한 리듬 게임의 성과 관리를 지원
 ## 지원 게임
 **[DJMAX RESPECT V](https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/)**: 웹 성과 관리 도구 [V-ARCHIVE](https://v-archive.net)와 연동됩니다.    
     
-**[WJMAX(왁제이맥스)](https://waktaverse.games/gameDetail/wjmax/)**
+**[WJMAX](https://waktaverse.games/gameDetail/wjmax/)**: 자체 서비스로 구축되어 운영 중입니다.
 
 ## TMI
 V-ARCHIVE 서비스랑 디맥 IP가 개인적으로 멋있고 너무 좋아서 뭔가에 꽂힌 이유로 만들었습니다.    
