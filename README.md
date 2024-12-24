@@ -1,5 +1,5 @@
 # R-ARCHIVE 데스크톱 앱
-![스크린샷](https://ribbon.r-archive.zip/project_ra/banner_black.png)    
+![스크린샷](https://ribbon.r-archive.zip/project_ra/banner_2x.png)    
     
 R-ARCHIVE 데스크톱 앱은 종합 리듬 게임 성과 관리 도구입니다.
 
