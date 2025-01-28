@@ -1,7 +1,7 @@
 # RACLA 데스크톱 앱
 ![스크린샷](https://ribbon.r-archive.zip/project_ra/banner_racla_x2.png)    
     
-RACLA 데스크톱 앱은 GGDRN0 STUDIO(R-ARDHIVE)가 개발하는 종합 리듬 게임 성과 관리 도구입니다.
+RACLA 데스크톱 앱은 GGDRN0 STUDIO(R-ARCHIVE)가 개발하는 종합 리듬 게임 성과 관리 도구입니다.
 
 ## 지원 게임
 **[DJMAX RESPECT V - 디제이맥스 리스펙트 V](https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/)**: 웹 성과 관리 도구 [V-ARCHIVE](https://v-archive.net), [전일 아카이브](https://hard-archive.com)와 연동됩니다.    
